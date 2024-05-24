@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Assignment 2 project.cpp
+c:\users\vanistor\desktop\university files\co1301 - games concepts\assignment 2\assignment 2 project\assignment 2 project.cpp(485): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vanistor\desktop\university files\co1301 - games concepts\assignment 2\assignment 2 project\assignment 2 project.cpp(486): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Assignment 2 project.vcxproj -> C:\Users\VANistor\Desktop\University files\CO1301 - Games Concepts\Assignment 2\Assignment 2 project\\Assignment 2 projectDebug.exe
+  Copying DLLs & shaders...
