@@ -1,0 +1,4 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Matrices.cpp
+  Matrices.vcxproj -> D:\VANistor\Desktop\Matrices\\MatricesDebug.exe
+  Copying DLLs & shaders...
